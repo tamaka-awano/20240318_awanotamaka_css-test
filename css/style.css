@@ -41,7 +41,7 @@ body {
 .firstview__ttl {
     position: relative;
     top: -200px;
-    font-size: 90px;
+    font-size: 5vw;
     font-weight: 100;
     margin-bottom: 0;
 }
